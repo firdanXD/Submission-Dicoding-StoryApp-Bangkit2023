@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Aplikasi Cerita</string>
+
+    <string name="welcome">Selamat Datang!</string>
+    <string name="join_us">Bergabunglah!</string>
+    <string name="introduction">Daftar dengan rincian pribadi Anda untuk menggunakan semua fitur situs</string>
+    <string name="greeting">Bagikan cerita Anda sendiri untuk membuat dunia lebih berwarna.</string>
+    <string name="greeting1">Lihat apa yang sedang dilakukan teman-teman Anda!</string>
+    <string name="greeting2">Ekspresikan diri Anda!</string>
+    <string name="hello">Halo,</string>
+    <string name="user_name">Nama Pengguna</string>
+
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="get_started">Mulai</string>
+    <string name="or">atau</string>
+    <string name="have_account">Sudah punya akun?</string>
+
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="proceed">Lanjutkan</string>
+    <string name="post">Kirim</string>
+
+    <string name="settings">Pengaturan</string>
+
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+
+    <string name="enter_description">Masukkan deskripsi</string>
+
+
+    <string name="placeholder_user">Nama Pengguna</string>
+    <string name="placeholder_description">Ini adalah deskripsi</string>
+
+
+    <string name="valid_email">Harap masukkan email yang valid</string>
+    <string name="password_minimum">Kata sandi harus terdiri dari minimal 8 karakter</string>
+    <string name="email_cannot_empty">Email tidak boleh kosong</string>
+    <string name="register_successful">Akun berhasil didaftarkan</string>
+    <string name="name_cannot_empty">Nama tidak boleh kosong</string>
+    <string name="camera_failed">Gagal membuka kamera</string>
+    <string name="permission_needed" translatable="false">Izin diperlukan untuk menggunakan kamera</string>
+    <string name="failed_capture">Gagal mengambil gambar</string>
+    <string name="image_posted">Gambar telah diposting</string>
+    <string name="wait_for_processing">Tunggu hingga proses selesai</string>
+    <string name="description_cannot_empty">Deskripsi tidak boleh kosong</string>
+    <string name="logout">Keluar</string>
+    <string name="take_picture">Ambil gambar</string>
+    <string name="rotate_camera">Putar kamera</string>
+    <string name="open_gallery">Buka galeri</string>
+    <string name="story_picture">Gambar cerita</string>
+    <string name="post_a_picture">Kirim gambar</string>
+    <string name="greeting_picture">Gambar sambutan</string>
+    <string name="register_an_account">Daftar akun</string>
+    <string name="post_the_picture">Kirim gambar</string>
+    <string name="register_this_account">Daftarkan akun ini</string>
+    <string name="login_instead">Masuk sebagai gantinya</string>
+    <string name="no_stories_found">Tidak ada cerita ditemukan</string>
+    <string name="expand_description">Perluas deskripsi</string>
+    <string name="expand_image">Perluas gambar</string>
+
+    <string name="stories_map">Jelajahi Peta Cerita</string>
+    <string name="failed_fetching_data">Gagal memperbarui feed. Silakan coba lagi nanti</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="story_map_title">Cerita oleh %s - Klik untuk melihat cerita lengkap</string>
+    <string name="failed_load_map">Gagal memuat peta</string>
+    <string name="feed">Beranda</string>
+</resources>
